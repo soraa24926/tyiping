@@ -1,0 +1,20 @@
+body{
+  /* 枠の中余白 */
+  padding-top: 40px;
+  /* 字体 */
+  font-family: 'Courier New', Courier, monospace;
+  /* 文字置く左右 */
+  text-align: center;
+}
+
+#monndai{
+  /* 文字の大きさ */
+  font-size: 48px;
+  /* 文字間の広さ */
+  letter-spacing: .1em;
+}
+
+#kekka{
+  /* 文字の大きさ */
+  font-size: 25px;
+}
